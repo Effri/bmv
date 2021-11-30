@@ -1,0 +1,102 @@
+div.title-search-result {
+	border:1px solid #c6c6c6;
+	display:none;
+	overflow:hidden;
+	z-index:998;
+        background-color: #fff;
+}
+
+table.title-search-result {
+	border-collapse: collapse;
+	border:none;
+	width:100%;
+}
+
+table.title-search-result th {
+	background-color:#F7F7F7;
+	border-right:1px solid #e8e8e8;
+	color:#949494;
+	font-weight:normal;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:14px;
+ 	padding-right:12px;
+	text-align:right;
+	vertical-align:top;
+	white-space:nowrap;
+	width:1%;
+}
+
+table.title-search-result td {
+	font-weight:normal;
+	padding-top:2px;
+	padding-bottom:2px;
+	text-align:left;
+	white-space:nowrap;
+}
+
+table.title-search-result td.title-search-item a {
+	display:block;
+        padding: 14px 15px;
+        font-size: 16px;
+        font-family: 'MullerBold', sans-serif;
+        font-weight: bold;
+        line-height: 12px;
+        color: #212121;
+        white-space: nowrap;
+}
+table.title-search-result td.title-search-item a:hover,
+table.title-search-result td.title-search-item a:focus {
+    color:#fff;
+    background-color: var(--prv_blue_color);
+    text-decoration: none;
+}
+
+table.title-search-result td.title-search-item img {
+	vertical-align:top;
+}
+
+table.title-search-result td.title-search-item b {
+	color:#cf0000;
+	font-weight:normal;
+}
+
+table.title-search-result td.title-search-all a
+{
+    display:block;
+    padding: 14px 15px;
+    font-size: 16px;
+    font-family: 'MullerBold', sans-serif;
+    font-weight: bold;
+    line-height: 12px;
+    color: #212121;
+    white-space: nowrap;
+}
+table.title-search-result td.title-search-all a:hover,
+table.title-search-result td.title-search-all a:focus {
+    color:#fff;
+    background-color: var(--prv_blue_color);
+    text-decoration: none;
+}
+
+table.title-search-result td.title-search-separator
+, table.title-search-result th.title-search-separator {
+	padding-top:0px;
+	padding-bottom:0px;
+	font-size:4px;
+}
+
+div.title-search-fader {
+	display:none;
+	background-image: url('images/fader.png');
+	background-position: right top;
+	background-repeat: repeat-y;
+	position:absolute;
+}
+
+p.title-search-preview {
+	font-size:12px;
+}
+div.title-search-result td.title-search-price span {
+	font-size: 26px;
+}

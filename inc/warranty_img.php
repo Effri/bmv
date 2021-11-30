@@ -1,0 +1,1 @@
+<img alt="гарантия" src="/upload/medialibrary/087/087ca1557989bb6e80063c26bd451ca2.png" title="гарантия">

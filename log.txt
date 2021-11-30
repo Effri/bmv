@@ -1,0 +1,94 @@
+Host: ms50bmw.alm.su
+Date: 2019-07-18 11:49:29
+Module: 
+SELECT `ID`, `NAME`, `CODE`
+					FROM b_iblock_section
+					WHERE IBLOCK_ID = '18' and ID >= '0' and (CODE = '' OR CODE IS NULL) ORDER BY `ID` ASC
+    CIMYIESectionsCHPURizator::UpdateCodes < require_once
+	/var/www/user42435/data/www/ms50bmw.alm.su/bitrix/modules/imyie.chpurizator/admin/index.php:34
+	/var/www/user42435/data/www/ms50bmw.alm.su/bitrix/admin/imyie_chpurizator.php:2
+----------
+Host: ms50bmw.alm.su
+Date: 2019-07-18 11:49:29
+Module: 
+Array
+(
+    [ID] => 23
+    [NAME] => Подвеска
+    [CODE] => 
+)
+
+    CIMYIESectionsCHPURizator::UpdateCodes < require_once
+	/var/www/user42435/data/www/ms50bmw.alm.su/bitrix/modules/imyie.chpurizator/admin/index.php:34
+	/var/www/user42435/data/www/ms50bmw.alm.su/bitrix/admin/imyie_chpurizator.php:2
+----------
+Host: ms50bmw.alm.su
+Date: 2019-07-18 11:49:29
+Module: 
+Array
+(
+    [ID] => 24
+    [NAME] => Система охлаждения
+    [CODE] => 
+)
+
+    CIMYIESectionsCHPURizator::UpdateCodes < require_once
+	/var/www/user42435/data/www/ms50bmw.alm.su/bitrix/modules/imyie.chpurizator/admin/index.php:34
+	/var/www/user42435/data/www/ms50bmw.alm.su/bitrix/admin/imyie_chpurizator.php:2
+----------
+Host: ms50bmw.alm.su
+Date: 2019-07-18 11:49:29
+Module: 
+Array
+(
+    [ID] => 25
+    [NAME] => Трансмиссия
+    [CODE] => 
+)
+
+    CIMYIESectionsCHPURizator::UpdateCodes < require_once
+	/var/www/user42435/data/www/ms50bmw.alm.su/bitrix/modules/imyie.chpurizator/admin/index.php:34
+	/var/www/user42435/data/www/ms50bmw.alm.su/bitrix/admin/imyie_chpurizator.php:2
+----------
+Host: ms50bmw.alm.su
+Date: 2019-07-18 11:49:29
+Module: 
+Array
+(
+    [ID] => 26
+    [NAME] => Тормозная система
+    [CODE] => 
+)
+
+    CIMYIESectionsCHPURizator::UpdateCodes < require_once
+	/var/www/user42435/data/www/ms50bmw.alm.su/bitrix/modules/imyie.chpurizator/admin/index.php:34
+	/var/www/user42435/data/www/ms50bmw.alm.su/bitrix/admin/imyie_chpurizator.php:2
+----------
+Host: ms50bmw.alm.su
+Date: 2019-07-18 11:49:29
+Module: 
+Array
+(
+    [ID] => 27
+    [NAME] => Электро оборудование
+    [CODE] => 
+)
+
+    CIMYIESectionsCHPURizator::UpdateCodes < require_once
+	/var/www/user42435/data/www/ms50bmw.alm.su/bitrix/modules/imyie.chpurizator/admin/index.php:34
+	/var/www/user42435/data/www/ms50bmw.alm.su/bitrix/admin/imyie_chpurizator.php:2
+----------
+Host: ms50bmw.alm.su
+Date: 2019-07-18 11:49:29
+Module: 
+Array
+(
+    [ID] => 28
+    [NAME] => Доп Услуги
+    [CODE] => 
+)
+
+    CIMYIESectionsCHPURizator::UpdateCodes < require_once
+	/var/www/user42435/data/www/ms50bmw.alm.su/bitrix/modules/imyie.chpurizator/admin/index.php:34
+	/var/www/user42435/data/www/ms50bmw.alm.su/bitrix/admin/imyie_chpurizator.php:2
+----------
